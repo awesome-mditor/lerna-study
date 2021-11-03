@@ -29,8 +29,8 @@
     "url": "https://github.com/luffyZh/lerna-study/issues"
   },
   "dependencies": {
+    "draft-js": "latest",
     "react": "latest",
-    "react-dom": "latest",
-    "draft-js": "latest"
+    "react-dom": "latest"
   }
 }
