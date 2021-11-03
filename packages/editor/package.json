@@ -32,5 +32,9 @@
     "draft-js": "latest",
     "react": "latest",
     "react-dom": "latest"
+  },
+  "gitHead": "9fbc4ffd1cdf2e96f15b68e12a746f930a612bf3",
+  "publishConfig": {
+    "access": "public"
   }
 }

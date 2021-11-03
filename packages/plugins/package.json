@@ -22,5 +22,9 @@
   },
   "bugs": {
     "url": "https://github.com/luffyZh/lerna-study/issues"
+  },
+  "gitHead": "9fbc4ffd1cdf2e96f15b68e12a746f930a612bf3",
+  "publishConfig": {
+    "access": "public"
   }
 }
