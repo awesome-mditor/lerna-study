@@ -1,14 +1,14 @@
 {
-  "name": "awesome-editor",
+  "name": "@awesome-mditor/editor",
   "version": "0.0.1",
-  "description": "awesome editor",
+  "description": "awesome mditor",
   "keywords": [
     "editor",
     "react",
     "draft-js"
   ],
   "author": "luffyZh <zhoudeyou@126.com>",
-  "homepage": "https://github.com/luffyZh/lerna-study#readme",
+  "homepage": "https://github.com/awesome-mditor/lerna-study#readme",
   "license": "ISC",
   "main": "lib/index.js",
   "directories": {
